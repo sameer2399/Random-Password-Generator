@@ -1,0 +1,53 @@
+body
+{
+    background: rgb(0,19,36);
+    background: -moz-linear-gradient(42deg, rgba(0,19,36,0.9895308465182948) 0%, rgba(0,212,255,1) 100%);
+    background: -webkit-linear-gradient(42deg, rgba(0,19,36,0.9895308465182948) 0%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(42deg, rgba(0,19,36,0.9895308465182948) 0%, rgba(0,212,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#001324",endColorstr="#00d4ff",GradientType=1);
+    height: 400px;
+}
+
+.container1{
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 250px;
+}
+
+.text1{
+    font-size: 3em;
+}
+
+.generate{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 3em;
+}
+
+.password{
+    width: 100%;
+    text-align: center;
+    color: #f63;
+}
+
+.myBtn{
+    width: 100%;
+}
+
+.passlen{
+    float: left;
+    font-size: 2em;
+    color: #f63;
+}
+
+.val{
+    float: right;
+    font-size: 2em;
+    color: #f63;
+    text-align: center;
+}
+
+
+
+
